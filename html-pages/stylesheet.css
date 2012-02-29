@@ -1,0 +1,27 @@
+body
+{
+color:#8FB4D4;
+background-color:#D0D0D0;
+background-image:url('images/korn-default-grey-colour-31000.jpg');
+/*background-position:bottom right;*/
+background-repeat:no-repeat;
+background-size: 100% 100%;
+/*background-attachment:fixed;*/
+}
+input
+{
+color:red;
+}
+p.main
+{
+text-align:justify;
+text-indent:50px;
+line-height:150%;
+}
+h3
+{
+position:fixed;
+text-align:center;
+letter-spacing:1px;
+text-decoration:overline;
+}
